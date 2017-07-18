@@ -3,11 +3,11 @@ u14javall
 
 Shippable CI image for Java on Ubuntu 14.04. Available jdk versions:
 
-1. openjdk6
-2. openjdk7
-3. openjdk8
-4. oraclejdk7
-5. oraclejdk8
+
+1. openjdk7
+2. openjdk8
+3. openjdk9
+4. oraclejdk8
 
 **Services:**
 

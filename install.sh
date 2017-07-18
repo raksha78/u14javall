@@ -29,7 +29,9 @@ echo "deb http://security.ubuntu.com/ubuntu trusty main restricted universe mult
 echo "deb http://security.ubuntu.com/ubuntu trusty-security main restricted universe multiverse" >> /etc/apt/sources.list
 apt-get update
 
-for file in /u14javall/version/*;
-do
-  $file
-done
+#for file in /u14javall/version/*;
+#do
+ # $file
+#done
+
+. /u14javall/version/openjdk9.sh

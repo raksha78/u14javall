@@ -20,7 +20,3 @@ printf "\n"
 echo "update-alternatives --set java /usr/lib/jvm/java-8-oracle/jre/bin/java"
 update-alternatives --set java /usr/lib/jvm/java-8-oracle/jre/bin/java
 printf "\n"
-
-echo "update-alternatives --set java /usr/lib/jvm/java-9-oracle/jre/bin/java"
-update-alternatives --set java /usr/lib/jvm/java-9-oracle/jre/bin/java
-printf "\n"
